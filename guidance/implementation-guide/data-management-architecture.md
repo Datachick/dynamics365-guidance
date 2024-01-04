@@ -116,7 +116,7 @@ We recommend that the data model conforms to the Common Data Model standard. The
 
 ### What is data modeling?
 
-A data model is a visual model showing how data flows through your system and how different tables relate to each other. Data models define the relationship types between tables and abstract a database to a visual representation that is easy to understand.
+A data model is a visual model showing how data is recorded in your system and how different tables relate to each other. Data models define the relationship types between tables and abstract a database to a visual representation that is easy to understand.
 
 If your project requires creation of new tables to support storing data for some specific business processes, it's recommended that you create a data model to define and understand the schema and data flow. But if yours is largely a vanilla implementation or has minimal customizations, it might not be relevant. Discuss with your system integrator and solution architect to see what works best for your case.
 
